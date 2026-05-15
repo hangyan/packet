@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mdlayher/packet"
+	"antrea.io/packet"
 	"golang.org/x/sys/unix"
 )
 

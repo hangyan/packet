@@ -1,4 +1,6 @@
-# packet [![Test Status](https://github.com/mdlayher/packet/workflows/Test/badge.svg)](https://github.com/mdlayher/packet/actions) [![Go Reference](https://pkg.go.dev/badge/github.com/mdlayher/packet.svg)](https://pkg.go.dev/github.com/mdlayher/packet)  [![Go Report Card](https://goreportcard.com/badge/github.com/mdlayher/packet)](https://goreportcard.com/report/github.com/mdlayher/packet)
+> **Note:** This repository is a fork of `github.com/mdlayher/packet`, which is no longer actively maintained. The canonical maintained fork is at [github.com/antrea-io/packet](https://github.com/antrea-io/packet) under the [antrea-io](https://github.com/antrea-io) organization. The Go module path is `antrea.io/packet`.
+
+# packet [![CI](https://github.com/antrea-io/packet/actions/workflows/ci.yml/badge.svg)](https://github.com/antrea-io/packet/actions) [![Go Reference](https://pkg.go.dev/badge/antrea.io/packet.svg)](https://pkg.go.dev/antrea.io/packet) [![Go Report Card](https://goreportcard.com/badge/github.com/antrea-io/packet)](https://goreportcard.com/report/github.com/antrea-io/packet)
 
 Package `packet` provides access to Linux packet sockets (`AF_PACKET`). MIT
 Licensed.
