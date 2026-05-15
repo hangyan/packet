@@ -1,6 +1,6 @@
 module antrea.io/packet
 
-go 1.26
+go 1.26.0
 
 require (
 	github.com/google/go-cmp v0.7.0
